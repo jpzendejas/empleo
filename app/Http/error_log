@@ -1,0 +1,15 @@
+[17-Sep-2019 06:46:31 UTC] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/s1stemas/salamancamunicipio.com/empleo/app/Http/routes.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/s1stemas/salamancamunicipio.com/empleo/app/Http/routes.php on line 14
+[22-Sep-2019 20:07:24 UTC] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/s1stemas/salamancamunicipio.com/empleo/app/Http/routes.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/s1stemas/salamancamunicipio.com/empleo/app/Http/routes.php on line 14
+[28-Sep-2019 04:36:52 UTC] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/s1stemas/salamancamunicipio.com/empleo/app/Http/routes.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/s1stemas/salamancamunicipio.com/empleo/app/Http/routes.php on line 14
+[29-Oct-2019 23:39:06 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Http\Kernel' not found in /home/s1stemas/salamancamunicipio.com/empleo/app/Http/Kernel.php on line 7
+[04-Nov-2019 14:45:29 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Http\Kernel' not found in /home/s1stemas/salamancamunicipio.com/empleo/app/Http/Kernel.php on line 7
+[09-Nov-2019 17:38:30 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Http\Kernel' not found in /home/s1stemas/salamancamunicipio.com/empleo/app/Http/Kernel.php on line 7

@@ -1,0 +1,20 @@
+[21-Sep-2019 21:00:21 UTC] PHP Notice:  Undefined variable: factory in /home/s1stemas/salamancamunicipio.com/empleo/database/factories/ModelFactory.php on line 14
+[21-Sep-2019 21:00:21 UTC] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/s1stemas/salamancamunicipio.com/empleo/database/factories/ModelFactory.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/s1stemas/salamancamunicipio.com/empleo/database/factories/ModelFactory.php on line 14
+[27-Sep-2019 00:49:05 UTC] PHP Notice:  Undefined variable: factory in /home/s1stemas/salamancamunicipio.com/empleo/database/factories/ModelFactory.php on line 14
+[27-Sep-2019 00:49:05 UTC] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/s1stemas/salamancamunicipio.com/empleo/database/factories/ModelFactory.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/s1stemas/salamancamunicipio.com/empleo/database/factories/ModelFactory.php on line 14
+[03-Oct-2019 20:06:29 UTC] PHP Notice:  Undefined variable: factory in /home/s1stemas/salamancamunicipio.com/empleo/database/factories/ModelFactory.php on line 14
+[03-Oct-2019 20:06:29 UTC] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/s1stemas/salamancamunicipio.com/empleo/database/factories/ModelFactory.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/s1stemas/salamancamunicipio.com/empleo/database/factories/ModelFactory.php on line 14
+[28-Nov-2019 17:52:58 UTC] PHP Notice:  Undefined variable: factory in /home/s1stemas/salamancamunicipio.com/empleo/database/factories/ModelFactory.php on line 14
+[28-Nov-2019 17:52:58 UTC] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/s1stemas/salamancamunicipio.com/empleo/database/factories/ModelFactory.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/s1stemas/salamancamunicipio.com/empleo/database/factories/ModelFactory.php on line 14

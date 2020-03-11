@@ -1,0 +1,9 @@
+[25-Oct-2019 05:08:33 UTC] PHP Fatal error:  Class 'TestCase' not found in /home/s1stemas/salamancamunicipio.com/empleo/tests/ExampleTest.php on line 7
+[25-Oct-2019 05:50:07 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Testing\TestCase' not found in /home/s1stemas/salamancamunicipio.com/empleo/tests/TestCase.php on line 3
+[30-Oct-2019 12:48:54 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Testing\TestCase' not found in /home/s1stemas/salamancamunicipio.com/empleo/tests/TestCase.php on line 3
+[30-Oct-2019 13:08:33 UTC] PHP Fatal error:  Class 'TestCase' not found in /home/s1stemas/salamancamunicipio.com/empleo/tests/ExampleTest.php on line 7
+[05-Nov-2019 00:40:59 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Testing\TestCase' not found in /home/s1stemas/salamancamunicipio.com/empleo/tests/TestCase.php on line 3
+[06-Nov-2019 09:03:16 UTC] PHP Fatal error:  Class 'TestCase' not found in /home/s1stemas/salamancamunicipio.com/empleo/tests/ExampleTest.php on line 7
+[18-Nov-2019 09:10:42 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Testing\TestCase' not found in /home/s1stemas/salamancamunicipio.com/empleo/tests/TestCase.php on line 3
+[28-Nov-2019 10:06:22 UTC] PHP Fatal error:  Class 'TestCase' not found in /home/s1stemas/salamancamunicipio.com/empleo/tests/ExampleTest.php on line 7
+[28-Nov-2019 10:06:35 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Testing\TestCase' not found in /home/s1stemas/salamancamunicipio.com/empleo/tests/TestCase.php on line 3

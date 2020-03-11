@@ -1,0 +1,12 @@
+[22-Sep-2019 01:56:34 UTC] PHP Fatal error:  Class 'Illuminate\Support\ServiceProvider' not found in /home/s1stemas/salamancamunicipio.com/empleo/app/Providers/AppServiceProvider.php on line 9
+[22-Sep-2019 08:27:31 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Support\Providers\EventServiceProvider' not found in /home/s1stemas/salamancamunicipio.com/empleo/app/Providers/EventServiceProvider.php on line 8
+[22-Sep-2019 17:36:46 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Support\Providers\RouteServiceProvider' not found in /home/s1stemas/salamancamunicipio.com/empleo/app/Providers/RouteServiceProvider.php on line 8
+[27-Sep-2019 15:09:46 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Support\Providers\AuthServiceProvider' not found in /home/s1stemas/salamancamunicipio.com/empleo/app/Providers/AuthServiceProvider.php on line 8
+[28-Sep-2019 03:28:35 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Support\Providers\EventServiceProvider' not found in /home/s1stemas/salamancamunicipio.com/empleo/app/Providers/EventServiceProvider.php on line 8
+[28-Sep-2019 06:09:08 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Support\Providers\RouteServiceProvider' not found in /home/s1stemas/salamancamunicipio.com/empleo/app/Providers/RouteServiceProvider.php on line 8
+[28-Sep-2019 11:08:26 UTC] PHP Fatal error:  Class 'Illuminate\Support\ServiceProvider' not found in /home/s1stemas/salamancamunicipio.com/empleo/app/Providers/AppServiceProvider.php on line 9
+[03-Oct-2019 12:31:30 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Support\Providers\EventServiceProvider' not found in /home/s1stemas/salamancamunicipio.com/empleo/app/Providers/EventServiceProvider.php on line 8
+[04-Oct-2019 02:45:46 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Support\Providers\RouteServiceProvider' not found in /home/s1stemas/salamancamunicipio.com/empleo/app/Providers/RouteServiceProvider.php on line 8
+[04-Oct-2019 08:28:19 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Support\Providers\AuthServiceProvider' not found in /home/s1stemas/salamancamunicipio.com/empleo/app/Providers/AuthServiceProvider.php on line 8
+[04-Oct-2019 15:21:37 UTC] PHP Fatal error:  Class 'Illuminate\Support\ServiceProvider' not found in /home/s1stemas/salamancamunicipio.com/empleo/app/Providers/AppServiceProvider.php on line 9
+[09-Oct-2019 19:38:27 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Support\Providers\AuthServiceProvider' not found in /home/s1stemas/salamancamunicipio.com/empleo/app/Providers/AuthServiceProvider.php on line 8

@@ -1,0 +1,212 @@
+[12-Sep-2019 16:20:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/s1stemas/salamancamunicipio.com/empleo/config/queue.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/s1stemas/salamancamunicipio.com/empleo/config/queue.php on line 18
+[12-Sep-2019 18:05:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/s1stemas/salamancamunicipio.com/empleo/config/database.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/s1stemas/salamancamunicipio.com/empleo/config/database.php on line 29
+[12-Sep-2019 19:23:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/s1stemas/salamancamunicipio.com/empleo/config/session.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/s1stemas/salamancamunicipio.com/empleo/config/session.php on line 19
+[12-Sep-2019 23:25:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/s1stemas/salamancamunicipio.com/empleo/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/s1stemas/salamancamunicipio.com/empleo/config/app.php on line 16
+[13-Sep-2019 02:49:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/s1stemas/salamancamunicipio.com/empleo/config/cache.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/s1stemas/salamancamunicipio.com/empleo/config/cache.php on line 16
+[13-Sep-2019 04:03:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function storage_path() in /home/s1stemas/salamancamunicipio.com/empleo/config/filesystems.php:48
+Stack trace:
+#0 {main}
+  thrown in /home/s1stemas/salamancamunicipio.com/empleo/config/filesystems.php on line 48
+[13-Sep-2019 04:57:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/s1stemas/salamancamunicipio.com/empleo/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/s1stemas/salamancamunicipio.com/empleo/config/services.php on line 18
+[13-Sep-2019 11:47:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/s1stemas/salamancamunicipio.com/empleo/config/broadcasting.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/s1stemas/salamancamunicipio.com/empleo/config/broadcasting.php on line 16
+[18-Sep-2019 20:06:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/s1stemas/salamancamunicipio.com/empleo/config/mail.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/s1stemas/salamancamunicipio.com/empleo/config/mail.php on line 19
+[18-Sep-2019 20:12:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/s1stemas/salamancamunicipio.com/empleo/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/s1stemas/salamancamunicipio.com/empleo/config/services.php on line 18
+[18-Sep-2019 20:31:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/s1stemas/salamancamunicipio.com/empleo/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/s1stemas/salamancamunicipio.com/empleo/config/app.php on line 16
+[19-Sep-2019 02:02:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/s1stemas/salamancamunicipio.com/empleo/config/cache.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/s1stemas/salamancamunicipio.com/empleo/config/cache.php on line 16
+[19-Sep-2019 02:59:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function storage_path() in /home/s1stemas/salamancamunicipio.com/empleo/config/filesystems.php:48
+Stack trace:
+#0 {main}
+  thrown in /home/s1stemas/salamancamunicipio.com/empleo/config/filesystems.php on line 48
+[19-Sep-2019 03:09:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/s1stemas/salamancamunicipio.com/empleo/config/queue.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/s1stemas/salamancamunicipio.com/empleo/config/queue.php on line 18
+[19-Sep-2019 04:19:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/s1stemas/salamancamunicipio.com/empleo/config/database.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/s1stemas/salamancamunicipio.com/empleo/config/database.php on line 29
+[19-Sep-2019 07:19:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function base_path() in /home/s1stemas/salamancamunicipio.com/empleo/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/s1stemas/salamancamunicipio.com/empleo/config/view.php on line 17
+[19-Sep-2019 12:58:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/s1stemas/salamancamunicipio.com/empleo/config/broadcasting.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/s1stemas/salamancamunicipio.com/empleo/config/broadcasting.php on line 16
+[24-Sep-2019 23:08:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function base_path() in /home/s1stemas/salamancamunicipio.com/empleo/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/s1stemas/salamancamunicipio.com/empleo/config/view.php on line 17
+[25-Sep-2019 14:32:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/s1stemas/salamancamunicipio.com/empleo/config/broadcasting.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/s1stemas/salamancamunicipio.com/empleo/config/broadcasting.php on line 16
+[25-Sep-2019 17:26:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/s1stemas/salamancamunicipio.com/empleo/config/cache.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/s1stemas/salamancamunicipio.com/empleo/config/cache.php on line 16
+[25-Sep-2019 17:30:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/s1stemas/salamancamunicipio.com/empleo/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/s1stemas/salamancamunicipio.com/empleo/config/services.php on line 18
+[29-Sep-2019 18:35:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/s1stemas/salamancamunicipio.com/empleo/config/session.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/s1stemas/salamancamunicipio.com/empleo/config/session.php on line 19
+[30-Sep-2019 01:30:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function base_path() in /home/s1stemas/salamancamunicipio.com/empleo/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/s1stemas/salamancamunicipio.com/empleo/config/view.php on line 17
+[04-Oct-2019 07:01:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/s1stemas/salamancamunicipio.com/empleo/config/mail.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/s1stemas/salamancamunicipio.com/empleo/config/mail.php on line 19
+[05-Oct-2019 18:55:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/s1stemas/salamancamunicipio.com/empleo/config/session.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/s1stemas/salamancamunicipio.com/empleo/config/session.php on line 19
+[09-Oct-2019 22:04:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/s1stemas/salamancamunicipio.com/empleo/config/mail.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/s1stemas/salamancamunicipio.com/empleo/config/mail.php on line 19
+[14-Nov-2019 16:58:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/s1stemas/salamancamunicipio.com/empleo/config/database.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/s1stemas/salamancamunicipio.com/empleo/config/database.php on line 29
+[15-Nov-2019 18:15:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/s1stemas/salamancamunicipio.com/empleo/config/cache.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/s1stemas/salamancamunicipio.com/empleo/config/cache.php on line 16
+[15-Nov-2019 18:16:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/s1stemas/salamancamunicipio.com/empleo/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/s1stemas/salamancamunicipio.com/empleo/config/services.php on line 18
+[16-Nov-2019 11:11:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/s1stemas/salamancamunicipio.com/empleo/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/s1stemas/salamancamunicipio.com/empleo/config/app.php on line 16
+[16-Nov-2019 22:10:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/s1stemas/salamancamunicipio.com/empleo/config/broadcasting.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/s1stemas/salamancamunicipio.com/empleo/config/broadcasting.php on line 16
+[17-Nov-2019 02:17:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/s1stemas/salamancamunicipio.com/empleo/config/session.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/s1stemas/salamancamunicipio.com/empleo/config/session.php on line 19
+[17-Nov-2019 03:25:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/s1stemas/salamancamunicipio.com/empleo/config/queue.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/s1stemas/salamancamunicipio.com/empleo/config/queue.php on line 18
+[17-Nov-2019 12:56:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/s1stemas/salamancamunicipio.com/empleo/config/database.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/s1stemas/salamancamunicipio.com/empleo/config/database.php on line 29
+[17-Nov-2019 12:57:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/s1stemas/salamancamunicipio.com/empleo/config/mail.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/s1stemas/salamancamunicipio.com/empleo/config/mail.php on line 19
+[17-Nov-2019 13:25:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function storage_path() in /home/s1stemas/salamancamunicipio.com/empleo/config/filesystems.php:48
+Stack trace:
+#0 {main}
+  thrown in /home/s1stemas/salamancamunicipio.com/empleo/config/filesystems.php on line 48
+[18-Nov-2019 06:44:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/s1stemas/salamancamunicipio.com/empleo/config/queue.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/s1stemas/salamancamunicipio.com/empleo/config/queue.php on line 18
+[18-Nov-2019 12:28:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/s1stemas/salamancamunicipio.com/empleo/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/s1stemas/salamancamunicipio.com/empleo/config/app.php on line 16
+[28-Nov-2019 09:57:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/s1stemas/salamancamunicipio.com/empleo/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/s1stemas/salamancamunicipio.com/empleo/config/app.php on line 16
+[28-Nov-2019 09:58:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/s1stemas/salamancamunicipio.com/empleo/config/broadcasting.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/s1stemas/salamancamunicipio.com/empleo/config/broadcasting.php on line 16
+[28-Nov-2019 09:58:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/s1stemas/salamancamunicipio.com/empleo/config/cache.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/s1stemas/salamancamunicipio.com/empleo/config/cache.php on line 16
+[28-Nov-2019 09:58:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/s1stemas/salamancamunicipio.com/empleo/config/database.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/s1stemas/salamancamunicipio.com/empleo/config/database.php on line 29
+[28-Nov-2019 09:58:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function storage_path() in /home/s1stemas/salamancamunicipio.com/empleo/config/filesystems.php:48
+Stack trace:
+#0 {main}
+  thrown in /home/s1stemas/salamancamunicipio.com/empleo/config/filesystems.php on line 48
+[28-Nov-2019 09:59:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/s1stemas/salamancamunicipio.com/empleo/config/mail.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/s1stemas/salamancamunicipio.com/empleo/config/mail.php on line 19
+[28-Nov-2019 09:59:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/s1stemas/salamancamunicipio.com/empleo/config/queue.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/s1stemas/salamancamunicipio.com/empleo/config/queue.php on line 18
+[28-Nov-2019 09:59:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/s1stemas/salamancamunicipio.com/empleo/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/s1stemas/salamancamunicipio.com/empleo/config/services.php on line 18
+[28-Nov-2019 09:59:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/s1stemas/salamancamunicipio.com/empleo/config/session.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/s1stemas/salamancamunicipio.com/empleo/config/session.php on line 19
+[28-Nov-2019 09:59:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function base_path() in /home/s1stemas/salamancamunicipio.com/empleo/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/s1stemas/salamancamunicipio.com/empleo/config/view.php on line 17
+[28-Nov-2019 19:19:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/s1stemas/salamancamunicipio.com/empleo/config/database.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/s1stemas/salamancamunicipio.com/empleo/config/database.php on line 29
+[28-Nov-2019 19:55:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function storage_path() in /home/s1stemas/salamancamunicipio.com/empleo/config/filesystems.php:48
+Stack trace:
+#0 {main}
+  thrown in /home/s1stemas/salamancamunicipio.com/empleo/config/filesystems.php on line 48
+[30-Nov-2019 00:35:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/s1stemas/salamancamunicipio.com/empleo/config/queue.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/s1stemas/salamancamunicipio.com/empleo/config/queue.php on line 18
+[03-Dec-2019 14:29:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/s1stemas/salamancamunicipio.com/empleo/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/s1stemas/salamancamunicipio.com/empleo/config/app.php on line 16
+[04-Dec-2019 02:08:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function storage_path() in /home/s1stemas/salamancamunicipio.com/empleo/config/filesystems.php:48
+Stack trace:
+#0 {main}
+  thrown in /home/s1stemas/salamancamunicipio.com/empleo/config/filesystems.php on line 48

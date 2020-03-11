@@ -1,0 +1,4 @@
+[17-Sep-2019 06:16:56 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Console\Kernel' not found in /home/s1stemas/salamancamunicipio.com/empleo/app/Console/Kernel.php on line 8
+[01-Nov-2019 03:58:56 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Console\Kernel' not found in /home/s1stemas/salamancamunicipio.com/empleo/app/Console/Kernel.php on line 8
+[06-Nov-2019 15:49:48 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Console\Kernel' not found in /home/s1stemas/salamancamunicipio.com/empleo/app/Console/Kernel.php on line 8
+[12-Nov-2019 10:00:59 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Console\Kernel' not found in /home/s1stemas/salamancamunicipio.com/empleo/app/Console/Kernel.php on line 8

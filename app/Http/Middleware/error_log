@@ -1,0 +1,8 @@
+[22-Sep-2019 00:09:50 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Http\Middleware\VerifyCsrfToken' not found in /home/s1stemas/salamancamunicipio.com/empleo/app/Http/Middleware/VerifyCsrfToken.php on line 7
+[22-Sep-2019 03:43:21 UTC] PHP Fatal error:  Class 'Illuminate\Cookie\Middleware\EncryptCookies' not found in /home/s1stemas/salamancamunicipio.com/empleo/app/Http/Middleware/EncryptCookies.php on line 7
+[28-Sep-2019 13:59:13 UTC] PHP Fatal error:  Class 'Illuminate\Cookie\Middleware\EncryptCookies' not found in /home/s1stemas/salamancamunicipio.com/empleo/app/Http/Middleware/EncryptCookies.php on line 7
+[05-Oct-2019 06:17:25 UTC] PHP Fatal error:  Class 'Illuminate\Cookie\Middleware\EncryptCookies' not found in /home/s1stemas/salamancamunicipio.com/empleo/app/Http/Middleware/EncryptCookies.php on line 7
+[01-Nov-2019 18:05:55 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Http\Middleware\VerifyCsrfToken' not found in /home/s1stemas/salamancamunicipio.com/empleo/app/Http/Middleware/VerifyCsrfToken.php on line 7
+[03-Nov-2019 06:22:33 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Http\Middleware\VerifyCsrfToken' not found in /home/s1stemas/salamancamunicipio.com/empleo/app/Http/Middleware/VerifyCsrfToken.php on line 7
+[16-Nov-2019 21:27:09 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Http\Middleware\VerifyCsrfToken' not found in /home/s1stemas/salamancamunicipio.com/empleo/app/Http/Middleware/VerifyCsrfToken.php on line 7
+[22-Nov-2019 16:19:34 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Http\Middleware\VerifyCsrfToken' not found in /home/s1stemas/salamancamunicipio.com/empleo/app/Http/Middleware/VerifyCsrfToken.php on line 7

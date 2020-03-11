@@ -1,0 +1,6 @@
+[27-Sep-2019 11:24:21 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/s1stemas/salamancamunicipio.com/empleo/app/Http/Controllers/Auth/AuthController.php on line 11
+[27-Sep-2019 17:06:27 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/s1stemas/salamancamunicipio.com/empleo/app/Http/Controllers/Auth/PasswordController.php on line 8
+[04-Oct-2019 00:07:07 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/s1stemas/salamancamunicipio.com/empleo/app/Http/Controllers/Auth/PasswordController.php on line 8
+[04-Oct-2019 10:00:29 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/s1stemas/salamancamunicipio.com/empleo/app/Http/Controllers/Auth/AuthController.php on line 11
+[10-Oct-2019 01:56:14 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/s1stemas/salamancamunicipio.com/empleo/app/Http/Controllers/Auth/AuthController.php on line 11
+[10-Oct-2019 12:08:49 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/s1stemas/salamancamunicipio.com/empleo/app/Http/Controllers/Auth/PasswordController.php on line 8
