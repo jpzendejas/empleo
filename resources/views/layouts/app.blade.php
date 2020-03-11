@@ -15,7 +15,7 @@
 
     <style>
         body {
-            background-image: url("img/DSC_0039.JPG");
+            background-image: url("img/login.jpg");
             background-repeat: no-repeat;
             background-size: cover;
             font-family: 'Lato';
