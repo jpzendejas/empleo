@@ -223,9 +223,9 @@ span.psw {
           <div class="border" style="margin-top:5px;"></div>
           <div class="" style="margin-left:10px; margin-right:10px;">
             <ul>
-              <li style="margin-top:15px;"><a href="http://www.salamancamunicipio.com/empleo/public/buscar">INICIO</a></li>
-              <li><a href="http://www.salamanca.gob.mx">salamanca.gob.mx</a></li>
-              <li><a href="http://saresalamanca.mx/sare/" target="_blank">SARE</a></li><br><br>
+              <li style="margin-top:15px;"><a href="https://www.salamanca.gob.mx/empleo/public/buscar">INICIO</a></li>
+              <li><a href="https://www.salamanca.gob.mx">salamanca.gob.mx</a></li>
+              <li><a href="https://www.salamanca.gob.mx/sare" target="_blank">SARE</a></li><br><br>
             </ul>
           </div>
 
