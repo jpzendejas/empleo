@@ -34,7 +34,11 @@ class AplicacionesVacantesController extends Controller
       $aplicacion->escolaridad_id=$request->escolaridad_id;
       $aplicacion->save();
 
-      return redirect()->back()->with('message', 'APLICACIÓN CORRECTA A LA VACANTE!');
+      $notification = array(
+        'message' =>'Aplicación correcta a la vacante',
+        'alert-type' => 'success'
+      );
+      return back()->with($notification);
     }
     public function index(){
       return view('aplicacionesvacantes');
