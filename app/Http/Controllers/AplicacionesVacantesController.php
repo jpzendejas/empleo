@@ -14,9 +14,12 @@ class AplicacionesVacantesController extends Controller
 {
     public function save_aplicacion(Request $request){
       $fecha=date('Y-m-d');
+      $nombre = "";
       if($pdf=$request->file('cv')) {
         $nombre=$pdf->getClientOriginalName();
         $pdf->move('cvs', $nombre);
+      }else {
+        $nombre = 'null';
       }
       $aplicacion = new AplicacionesVacantes();
       $aplicacion->nombre=$request->nombre;
@@ -25,7 +28,7 @@ class AplicacionesVacantesController extends Controller
       $aplicacion->genero=$request->genero;
       $aplicacion->telefono=$request->telefono;
       $aplicacion->correo=$request->correo;
-      $aplicacion->cv=$nombre;
+      $aplicacion->cv = $nombre;
       $aplicacion->fecha_aplicacion=$fecha;
       $aplicacion->vacante_id=$request->vacante_id;
       $aplicacion->escolaridad_id=$request->escolaridad_id;
