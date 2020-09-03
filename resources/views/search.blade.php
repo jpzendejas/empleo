@@ -14,21 +14,22 @@
     </center>
     </fieldset>
     <div class="inner-form">
+      <div class="input-field second-wrap">
+        <select id="location" name="Ubicacion" style="width:350px; height:70px; border:1px solid #04467E;background-color:#FFFFFF;color:#2D4167;font-size:18px" onchange="this.style.width=200">
+        @foreach($municipios as $municipio)
+          <option value="{{$municipio->id}}">{{$municipio->municipio}}</option>
+          @endforeach
+        </select>
+      </div>
       <div class="input-field first-wrap">
-        <input id="search" name="puesto" list="browsers" placeholder="Puesto de Trabajo" />
+        <input id="search" name="puesto" autocomplete="off" list="browsers" placeholder="Puesto de Trabajo" />
         <datalist id="browsers">
           @foreach($vacantes as $vacante)
             <option value="{{$vacante->puesto}}">
           @endforeach
         </datalist>
       </div>
-      <div class="input-field second-wrap">
-      <select id="location" name="Ubicacion" style="width:250px; height:70px; border:1px solid #04467E;background-color:#FFFFFF;color:#2D4167;font-size:18px" onchange="this.style.width=200">
-          @foreach($municipios as $municipio)
-          <option value="{{$municipio->id}}">{{$municipio->municipio}}</option>
-          @endforeach
-      </select>
-      </div>
+
       <div class="input-field third-wrap">
         <button class="btn-search" type="submit">Buscar</button>
       </div>
