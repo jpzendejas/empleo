@@ -10,6 +10,9 @@ use Input;
 use DB;
 use Auth;
 use App\EstatusAplicaciones;
+use App\Vacantes;
+use App\Empresas;
+use Mail;
 class AplicacionesVacantesController extends Controller
 {
     public function save_aplicacion(Request $request){
@@ -38,7 +41,22 @@ class AplicacionesVacantesController extends Controller
         'message' =>'Aplicación correcta a la vacante',
         'alert-type' => 'success'
       );
+      $this->send_mail($aplicacion);
       return back()->with($notification);
+    }
+    private function send_mail($aplicacion){
+      $vacante_id = $aplicacion->vacante_id;
+      if ($vacante_id) {
+        $vacante = Vacantes::where('id', $vacante_id)->first();
+        $empresa = Empresas::where('id', $vacante->empresa_id)->first();
+        if ($empresa->correo_electronico) {
+          Mail::send('emails.nuevaaplicacion', ['vacante' => $vacante, 'aplicacion'=>$aplicacion], function ($m) use ($empresa) {
+           $m->from('notificaciones@salamanca.gob.mx', 'Bolsa de Empleo Salamanca, Gto.');
+           $m->to($empresa->correo_electronico)->subject('Nueva Aplicación a Vacante!');
+       });
+        }
+      }
+
     }
     public function index(){
       return view('aplicacionesvacantes');
