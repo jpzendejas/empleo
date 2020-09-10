@@ -34,6 +34,7 @@ Route::get('/reg','AuthController@registrar');
 Route::get('/vacantes','VacantesController@index');
 Route::post('/get_vacante','VacantesController@get_vacantes');
 Route::post('/update_vacante/{id}','VacantesController@update_vacantes');
+Route::post('destroy_vacante/','VacantesController@destroy_vacantes');
 Route::post('/get_estado_civil','VacantesController@get_estados_civil');
 Route::post('/get_escolaridad','VacantesController@get_escolaridades');
 Route::post('/get_experiencia','VacantesController@get_experiencias');

@@ -419,4 +419,9 @@ class VacantesController extends Controller
       $vacante = Vacantes::orderBy('id','desc')->select('numero_vacante')->first();
       return $vacante;
     }
+
+    public function destroy_vacantes(Request $request){
+      Vacantes::destroy($request->id);
+      echo json_encode(array('success'=>true));
+    }
 }

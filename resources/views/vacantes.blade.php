@@ -36,7 +36,7 @@
         <span>Buscar:</span>
         <input id="buscar" name="buscar" class="easyui-textbox" style="width:10%"> <a id="bs" class="easyui-linkbutton" iconCls="icon-search" style="width:100px">Buscar</a>
         <a id="exportarVacante" class="easyui-linkbutton" iconCls="icon-reload" style="width:100px">Exportar</a>
-        <!-- <a id ="destroyVacante" href="javascript:void(0)" class="easyui-linkbutton" iconCls="icon-remove" plain="true">Eliminar Vacante</a> -->
+        <a id ="destroyVacante" href="javascript:void(0)" class="easyui-linkbutton" iconCls="icon-remove" plain="true">Eliminar Vacante</a>
     </div>
 
     <div id="dlg" class="easyui-dialog" style="width:400px"
