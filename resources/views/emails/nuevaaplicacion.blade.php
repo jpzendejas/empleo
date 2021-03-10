@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-<head>
+<head><meta charset="gb18030">
 <title>Nueva Aplicación a Vacante</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
@@ -71,7 +71,7 @@ body {
       <li>Edad: <?php echo $aplicacion->edad;?></li>
       <li>Genero: <?php echo $aplicacion->genero;?></li>
       <li>Mail: <?php echo $aplicacion->correo;?></li>
-      <li>CV: <a href="http://http://172.17.27.44//empleo/public/cvs/{{$aplicacion->cv}}" target="_blank">CV</a></li>
+      <li>CV: <a href="http://salamanca.gob.mx/empleo/public/cvs/{{$aplicacion->cv}}" target="_blank">CV</a></li>
 
     </ul>
   </div>
